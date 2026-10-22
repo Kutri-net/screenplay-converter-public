@@ -1,0 +1,15 @@
+{
+  "name": "kutri-screenplay",
+  "description": "Screenplay tools from kutri.net AI screenwriting workshops.",
+  "owner": {
+    "name": "Katri Manninen",
+    "url": "https://kutri.net"
+  },
+  "plugins": [
+    {
+      "name": "screenplay-converter",
+      "source": "./plugin",
+      "description": "Convert screenplays between Movie Magic Screenwriter, Fountain, Final Draft and PDF locally."
+    }
+  ]
+}

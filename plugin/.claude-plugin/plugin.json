@@ -1,0 +1,10 @@
+{
+  "name": "screenplay-converter",
+  "version": "0.1.0",
+  "description": "Convert screenplays between Movie Magic Screenwriter (.mmsw/.BK/.mmx), Fountain, Final Draft (.fdx) and PDF locally, without Movie Magic or Final Draft. Python 3 standard library only.",
+  "author": {
+    "name": "Katri Manninen",
+    "url": "https://kutri.net"
+  },
+  "keywords": ["screenplay", "fountain", "movie magic", "final draft", "pdf", "käsikirjoitus"]
+}
